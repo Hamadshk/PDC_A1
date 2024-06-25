@@ -47,7 +47,7 @@ Through this assignment, we gained valuable insights into the performance differ
 We observed that transitioning from Python to C provided the most significant speed-up. Additionally, incorporating multi-threading and vector instructions in C further enhanced performance, although the improvements were less pronounced than the initial language shift. Overall, optimizing code to leverage lower-level languages and parallel processing techniques can significantly reduce execution times.
 
 ## Documentation
-For detailed documentation, including screenshots, refer to the [full report](path/to/your/file.odt).
+For detailed documentation, including screenshots, refer to the [full report](./Pdc_A1_Document.odt).
 
 ## Screenshots
 
